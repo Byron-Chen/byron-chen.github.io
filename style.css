@@ -1,2 +1,10 @@
-body { background: blue; }
-    * { color: red; }
+body, h1{
+	font-family: 'Roboto Mono', monospace;
+	font-size: 18px;
+	line-height: 1.5;
+    color:blue;
+}
+
+.header h1{
+    text-align: center;
+}
